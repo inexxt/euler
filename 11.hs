@@ -1,0 +1,1 @@
+x11 = 70600674 --W pamięci za pierwszym razem! :D

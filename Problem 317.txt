@@ -1,0 +1,5 @@
+parabola through (-90.3047, 0), (0,  120.3874), (90.3047, 0)
+
+rotate the region between 0 and (120.387-0.0147625 x^2) with -90.3047<x<90.3047 around y axis
+
+round (1542123.483515772) to 4 decimal places
